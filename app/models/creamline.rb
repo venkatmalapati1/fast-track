@@ -1,0 +1,2 @@
+class Creamline < ApplicationRecord
+end
